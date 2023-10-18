@@ -9,6 +9,10 @@ numpy = "*"
 matplotlib = "*"
 seaborn = "*"
 jupyter = "*"
+fastparquet = "*"
+tqdm = "*"
+jsonlines = "*"
+sklearn = "*"
 
 [dev-packages]
 
